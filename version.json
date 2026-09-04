@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "releaseDate": "2026-08-18",
-  "downloadUrl": "https://github.com/HARIOHMPATEL/ezdealer-warranty-virtual-printer/releases/latest/download/WarrantyVirtualPrinterSetup.exe",
-  "releaseNotesUrl": "https://github.com/HARIOHMPATEL/ezdealer-warranty-virtual-printer/releases/latest",
-  "minWindowsVersion": "10.0"
+    "releaseDate":  "2026-09-04",
+    "minWindowsVersion":  "10.0",
+    "releaseNotesUrl":  "https://github.com/HARIOHMPATEL/ezdealer-warranty-virtual-printer/releases/latest",
+    "version":  "1.5.1",
+    "downloadUrl":  "https://github.com/HARIOHMPATEL/ezdealer-warranty-virtual-printer/releases/latest/download/WarrantyVirtualPrinterSetup.exe"
 }
